@@ -3,7 +3,7 @@ def mult(a,b):
     return (answer)
 print (mult(5,3))
 
-def add(a,c)
+def add(a,c):
     answer = a*b+c
     return (answer)
 print (sum(5,3,4))
