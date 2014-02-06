@@ -1,4 +1,4 @@
-def squ(a,a):
+def squ(a):
     answer =  a*a
     return (answer)
 
