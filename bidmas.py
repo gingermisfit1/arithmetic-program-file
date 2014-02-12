@@ -1,10 +1,15 @@
-def mult(a,b):
-    answer =  a*b
+def bid1 (a):
+    answer =  a*3
+    answer = answer +4
     return (answer)
 print (mult(5,3))
 
-def add(a,c):
-    answer = a*b+c
+def bid2(a):
+    answer = a+4
+    answer = answer *3
     return (answer)
-print (sum(5,3,4))
+    
+print (bid1(5))
 #expected outcome is 19
+print (bid2(5))
+#expected outcome is 27
